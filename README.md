@@ -39,6 +39,7 @@ Halaman Home berisi:
 Halaman Menu berisi judul dan petunjuk penggunaan, empat tombol filter kategori (Semua, Makanan, Minuman, Snack), input pencarian (form-control), wadah kartu menu yang diisi otomatis oleh JavaScript, pesan Menu tidak ditemukan, serta modal Bootstrap untuk detail menu.
 
 Cuplikan Kode HTML:
+
 <img width="870" height="653" alt="image" src="https://github.com/user-attachments/assets/fd4060be-4fd8-4e94-9db4-9c736b9e577f" />
 
 
@@ -57,6 +58,7 @@ Data menu disimpan dalam array objek bernama menuKantin di file main.js. Setiap 
 • rupiah() dan namaKategori(): Fungsi bantu untuk memformat harga (misalnya Rp18.000) dan mengubah kode kategori menjadi teks.
 
 Cuplikan Kode JavaScript:
+
 <img width="854" height="682" alt="image" src="https://github.com/user-attachments/assets/af81be26-050e-40f3-af74-9f03ee05a834" />
 
 # CSS
@@ -78,6 +80,7 @@ Bootstrap digunakan sebagai dasar tata letak dan komponen, sedangkan file style.
 • Responsive: Menggunakan media query max-width: 767px untuk memperkecil judul dan tinggi carousel pada layar kecil, serta prefers-reduced-motion untuk mematikan animasi bagi pengguna yang memintanya.
 
 Cuplikan Kode CSS:
+
 <img width="734" height="655" alt="image" src="https://github.com/user-attachments/assets/3f0f6444-a841-411e-b154-57ad59656b16" />
 
 # Dokumentasi Tampilan
